@@ -61,9 +61,8 @@ Diseñado con una vibra cálida, organizada y suave. ♡
 </div>
 
 - ✦ Estructura inicial creada  
-- ✦ HTML + JavaScript agregados  
-- ✦ Script PHP funcional  
-- ✦ Estilo pastel en progreso
+- ✦ HTML + JavaScript agregados   
+- ✦ Estilo 
 
 ---
 
