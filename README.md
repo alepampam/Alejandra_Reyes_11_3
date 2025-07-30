@@ -55,18 +55,6 @@ Diseñado con una vibra cálida, organizada y suave. ♡
 
 <div align="center">
 
-<h3 align="center"><strong><em>── .╰┈➤ Estructura del Proyecto ──</em></strong></h3>
-</div>
-<div align="center">
-├── index.html → Página principal
-  </div>
-  <div align="center">
-├── style.css → Estilos en colores pastel
-    </div>
-    <div align="center">
-└── script.js → Interacción básica con JS
-</div>
- <div align="center">
 
 ⋆｡ﾟ☁︎ Estado Actual ☁︎｡ﾟ⋆
 
@@ -85,8 +73,8 @@ Diseñado con una vibra cálida, organizada y suave. ♡
 
 </div>
 
-📎 Repositorio: [https://github.com/alepampam/alejandra-reyes-113](https://github.com/alepampam/alejandra-reyes-113)  
-🌐 GitHub Pages: [https://alepampam.github.io/alejandra-reyes-113](https://alepampam.github.io/alejandra-reyes-113)
+✿ Repositorio: [https://github.com/alepampam/alejandra-reyes-113](https://github.com/alepampam/alejandra-reyes-113)  
+☀︎ GitHub Pages: [https://alepampam.github.io/alejandra-reyes-113](https://alepampam.github.io/alejandra-reyes-113)
 
 ---
 
