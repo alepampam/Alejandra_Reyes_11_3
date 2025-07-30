@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<p align="center"> <strong><em><span style="font-size: 22px;">── .✦ Bienvenid@ ── ୨ৎ ──</span></em></strong> </p>
+<h3 align="center"><strong><em>── .✦ Bienvenid@ ── ୨ৎ ──</em></strong></h3>
 
 </div>
 
@@ -23,7 +23,7 @@ Diseñado con una vibra cálida, organizada y suave. ♡
 
 <div align="center">
 
-⋆｡ﾟ☁︎ Tecnologías utilizadas ☁︎｡ﾟ⋆
+<h3 align="center"><strong><em>── .⋆｡ﾟ☁︎ Tecnologías utilizadas ☁︎｡ﾟ⋆ ──</em></strong></h3>
 
 </div>
 
@@ -38,7 +38,7 @@ Diseñado con una vibra cálida, organizada y suave. ♡
 
 <div align="center">
 
-✶⋆.˚ Propósito del Proyecto ˚⋆✶
+<h3 align="center"><strong><em>── ✶⋆.˚ Propósito del Proyecto ˚⋆✶ ──</em></strong></h3>
 
 </div>
 
