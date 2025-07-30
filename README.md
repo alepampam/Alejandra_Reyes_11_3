@@ -1,37 +1,60 @@
 <p align="center">
-  <img src="descarga.gif" alt="Banner del proyecto" width="100%" />
+  <img src="descarga.gif" alt="Banner del proyecto" style="max-height: 150px; border-radius: 8px;" />
 </p>
 
-# 🌐 Proyecto Web Básico
+<div align="center">
 
-¡Bienvenido a mi primer proyecto de desarrollo web! 🚀
+── .✦ Bienvenid@ ── ୨ৎ ──
 
----
+</div>
 
-## 📌 Descripción
+<div align="center">
+  
+<sub><sup><i>
 
-Este es un proyecto web sencillo, creado como parte del curso de desarrollo web. La página incluye HTML para la estructura, CSS para los estilos, JavaScript para la interactividad y PHP para funciones básicas del lado del servidor.
+Este es un proyecto web hecho con cariño, utilizando HTML, CSS, JavaScript y PHP. Fue creado para practicar el desarrollo web y explorar la publicación de sitios en GitHub.  
+Diseñado con una vibra cálida, organizada y suave. ♡
 
----
+</i></sup></sub>
 
-## 🛠️ Tecnologías Utilizadas
-
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+</div>
 
 ---
 
-## 🎯 Propósito del Proyecto
+<div align="center">
 
-> 📚 *Aplicar los conocimientos adquiridos sobre desarrollo web*  
-> 🧪 *Practicar la creación y publicación de proyectos en GitHub*  
-> 🌍 *Desarrollar una base sólida para futuros proyectos web*
+⋆｡ﾟ☁︎ Tecnologías utilizadas ☁︎｡ﾟ⋆
+
+</div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-EFB6C9?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-FADADD?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-FEF3C7?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PHP-EADCF0?style=for-the-badge&logo=php&logoColor=black"/>
+</p>
 
 ---
 
-## 📁 Estructura del Proyecto
+<div align="center">
 
+✶⋆.˚ Propósito del Proyecto ˚⋆✶
 
+</div>
+
+<sub><sup><i>
+
+𓆩✧𓆪 Aplicar los conocimientos adquiridos sobre desarrollo web  
+𓆩✧𓆪 Practicar GitHub y GitHub Pages  
+𓆩✧𓆪 Crear una base estética y funcional para proyectos futuros
+
+</i></sup></sub>
+
+---
+
+<div align="center">
+
+╰┈➤ Estructura del Proyecto
+
+</div>
 
