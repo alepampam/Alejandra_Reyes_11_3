@@ -57,8 +57,13 @@ Diseñado con una vibra cálida, organizada y suave. ♡
 
 <h3 align="center"><strong><em>── .╰┈➤ Estructura del Proyecto ──</em></strong></h3>
 </div>
-
+<div align="center">
 ├── index.html → Página principal
+  </div>
+  <div align="center">
 ├── style.css → Estilos en colores pastel
+    </div>
+    <div align="center">
 └── script.js → Interacción básica con JS
+</div>
  
