@@ -85,7 +85,7 @@ Diseñado con una vibra cálida, organizada y suave. ♡
 </div>
 
 💌 alejandra@email.com  
-📸 Instagram: [@alepampam](https://instagram.com/alepampam)
+📸 Instagram: [@alepampamg](https://instagram.com/alepampamg)
 
 ---
 
