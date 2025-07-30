@@ -1,4 +1,4 @@
-<p align="center">
+  <p align="center">
   <img src="descarga.gif" alt="Banner del proyecto" width="100%" style="max-width: 1000px; border-radius: 10px;" />
 </p>
 
@@ -66,4 +66,43 @@ Diseñado con una vibra cálida, organizada y suave. ♡
     <div align="center">
 └── script.js → Interacción básica con JS
 </div>
- 
+ <div align="center">
+
+⋆｡ﾟ☁︎ Estado Actual ☁︎｡ﾟ⋆
+
+</div>
+
+- ✦ Estructura inicial creada  
+- ✦ HTML + JavaScript agregados  
+- ✦ Script PHP funcional  
+- ✦ Estilo pastel en progreso
+
+---
+
+<div align="center">
+
+𖦹 Sitio publicado
+
+</div>
+
+📎 Repositorio: [https://github.com/alepampam/alejandra-reyes-113](https://github.com/alepampam/alejandra-reyes-113)  
+🌐 GitHub Pages: [https://alepampam.github.io/alejandra-reyes-113](https://alepampam.github.io/alejandra-reyes-113)
+
+---
+
+<div align="center">
+
+⋆｡ﾟ☁︎ Contacto ☁︎｡ﾟ⋆
+
+</div>
+
+💌 alejandra@email.com  
+📸 Instagram: [@alepampam](https://instagram.com/alepampam)
+
+---
+
+<div align="center">
+
+───୨ৎ──── Gracias por visitar ──── ✶⋆.˚
+
+</div>
