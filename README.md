@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<h3 align="center"><strong><em>── .✦ Bienvenid@ ── ୨ৎ ──</em></strong></h3>
+<p align="center"> <strong><em><span style="font-size: 22px;">── .✦ Bienvenid@ ── ୨ৎ ──</span></em></strong> </p>
 
 </div>
 
