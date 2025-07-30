@@ -73,8 +73,6 @@ Diseñado con una vibra cálida, organizada y suave. ♡
 </div>
 
 ✿ Repositorio: [https://github.com/alepampam/alejandra-reyes-113](https://github.com/alepampam/alejandra-reyes-113)  
-☀︎ GitHub Pages: [https://alepampam.github.io/alejandra-reyes-113](https://alepampam.github.io/alejandra-reyes-113)
-
 ---
 
 <div align="center">
