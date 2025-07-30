@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="descarga.gif" alt="Banner del proyecto" style="max-height: 300px; border-radius: 50px;" />
+  <img src="descarga.gif" alt="Banner del proyecto" width="100%" style="max-width: 1000px; border-radius: 10px;" />
 </p>
 
 <div align="center">
