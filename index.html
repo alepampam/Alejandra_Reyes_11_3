@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>⋆｡°·☁︎ Introducción a HTML⋆｡°·☁︎</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="header">
+    <h1>───୨ৎ──── Aprende HTML ── .✦</h1>
+    <p class="tagline">⋆｡ﾟ Tu guía básica para dominar el lenguaje de la web ✶⋆.˚</p>
+  </header>
+
+  <div class="container">
+    <aside class="sidebar">
+      <h2>🌸 Navegación</h2>
+      <nav>
+        <ul>
+          <li><a href="#que-es">¿Qué es HTML?</a></li>
+          <li><a href="#estructura">Estructura Básica</a></li>
+          <li><a href="#etiquetas">Etiquetas Comunes</a></li>
+          <li><a href="#buenas-practicas">Buenas Prácticas</a></li>
+          <li><a href="#js">¿Qué es JS?</a></li>
+          <li><a href="#php">¿Qué es PHP?</a></li>
+          <li><a href="#css">¿Qué es style.css?</a></li>
+          <li><a href="#recursos">Recursos Recomendados</a></li>
+        </ul>
+      </nav>
+      <div class="sidebar-img">
+        <img src="https://i.pinimg.com/736x/46/f6/ce/46f6ce8f923b6fd7a6824d91ce62241f.jpg" alt="HTML pastel decorativo">
+        <img src="https://htmlburger.com/blog/wp-content/uploads/2021/05/1-design-to-html-project-826x464.jpg" alt="Decoración adicional">
+      </div>
+    </aside>
+
+    <main class="content">
+      <section id="que-es">
+        <h2> ☆ ¿Qué es HTML? ୭ ˚. ᵎᵎ</h2>
+        <p>HTML, o <strong>HyperText Markup Language</strong>, es el lenguaje con el que se crean las páginas web. Es un lenguaje de marcado, no de programación, que define la estructura y el contenido de un sitio.</p>
+        <img class="content-img" src="https://saberpunto.com/wp-content/uploads/guia-html-que-es-y-como-funciona.png" alt="Ejemplo HTML">
+      </section>
+
+      <section id="estructura">
+        <h2> ☆ Estructura Básica de un Documento HTML ୭ ˚. ᵎᵎ</h2>
+        <pre>
+&lt;!DOCTYPE html&gt;
+&lt;html lang="es"&gt;
+  &lt;head&gt;
+    &lt;title&gt;Título de la Página&lt;/title&gt;
+  &lt;/head&gt;
+  &lt;body&gt;
+    &lt;h1&gt;Encabezado Principal&lt;/h1&gt;
+    &lt;p&gt;Este es un párrafo.&lt;/p&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+        </pre>
+        <p>Esta es la estructura mínima que debe tener todo documento HTML válido.</p>
+      </section>
+
+      <section id="etiquetas">
+        <h2>𓂃˖˳·˖ ִֶָ ⋆Etiquetas Comunes⋆ ִֶָ˖·˳˖𓂃 ִֶָ </h2>
+        <ul>
+          <li><code>&lt;h1&gt;...&lt;/h1&gt;</code> a <code>&lt;h6&gt;...&lt;/h6&gt;</code>: Encabezados jerárquicos</li>
+          <li><code>&lt;p&gt;</code>: Párrafos de texto</li>
+          <li><code>&lt;a href=""&gt;</code>: Enlaces</li>
+          <li><code>&lt;img src=""&gt;</code>: Imágenes</li>
+          <li><code>&lt;ul&gt;, &lt;ol&gt;, &lt;li&gt;</code>: Listas</li>
+        </ul>
+      </section>
+
+      <section id="buenas-practicas">
+        <h2> ⋆⭒˚｡⋆Buenas Prácticas⋆⭒˚｡⋆</h2>
+        <ol>
+          <li>Utiliza una indentación clara y coherente.</li>
+          <li>Agrega comentarios para organizar el código.</li>
+          <li>Usa etiquetas semánticas como <code>&lt;header&gt;</code>, <code>&lt;main&gt;</code>, <code>&lt;footer&gt;</code>.</li>
+          <li>Mantén los nombres de archivo en minúsculas y sin espacios.</li>
+        </ol>
+      </section>
+
+      <section id="js">
+        <h2>⋆⭒˚.⋆¿Qué es script.js?⋆⭒˚.⋆</h2>
+        <p>Es un archivo JavaScript que se utiliza para agregar interactividad a tu sitio web. Puedes usarlo para mostrar mensajes, validar formularios, cambiar estilos dinámicamente, entre muchas otras funciones.</p>
+        <img class="content-img" src="https://i.pinimg.com/736x/ff/18/a6/ff18a63e8d8a6c5bb634b170d717a8bd.jpg" alt="Código JS decorativo">
+        <pre>
+// Ejemplo básico
+function saludar() {
+  alert("¡Hola, bienvenido a HTML!");
+}
+        </pre>
+      </section>
+
+      <section id="php">
+        <h2>⋆⭒˚.⋆¿Qué es PHP?⋆⭒˚.⋆</h2>
+        <p>PHP es un lenguaje de programación del lado del servidor. Se utiliza para crear páginas web dinámicas, conectarse a bases de datos y generar contenido personalizado.</p>
+        <img class="content-img" src="https://www.strato.de/faq/hosting/que-es-php-y-como-lo-utilizo/PHP-Grafiken_Was-ist-PHP_ES.big.png" alt="Código PHP decorativo">
+        <pre>
+&lt;?php
+  echo "¡Hola desde PHP!";
+?&gt;
+        </pre>
+      </section>
+
+      <section id="css">
+        <h2>⋆｡°· ¿Qué es style.css?⋆｡°·</h2>
+        <p>Es una hoja de estilos en cascada que define cómo se ve tu página HTML: colores, márgenes, fuentes, posiciones, animaciones y más.</p>
+        <img class="content-img" src="https://cdn.prod.website-files.com/5f5a53e153805db840dae2db/6543d29bb8d4c2ccbc91c5e1_css-interno.webp" alt="Decoración de CSS">
+        <pre>
+body {
+  background: #fff5f9;
+  font-family: 'Segoe UI', sans-serif;
+  color: #333;
+}
+        </pre>
+      </section>
+
+      <section id="recursos">
+        <h2>
+      ༘⋆
+      Recursos para Aprender Más
+      ༘⋆
+     </h2>
+        <ul>
+          <li>🔗 <a href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank">MDN Web Docs</a></li>
+          <li>🔗 <a href="https://www.w3schools.com/html/" target="_blank">W3Schools</a></li>
+          <li>🔗 <a href="https://htmlreference.io/" target="_blank">HTML Reference</a></li>
+        </ul>
+        <button onclick="saludar()">Recibir un saludo ☁️</button>
+      </section>
+    </main>
+  </div>
+
+  <footer>
+    <p>───୨ৎ──── Proyecto educativo para comprender HTML, CSS, JS y PHP ── .✦</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
