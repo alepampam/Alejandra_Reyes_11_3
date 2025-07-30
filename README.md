@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="descarga.gif" alt="Banner del proyecto" style="max-height: 150px; border-radius: 8px;" />
+  <img src="descarga.gif" alt="Banner del proyecto" style="max-height: 150px; border-radius: 16px;" />
 </p>
 
 <div align="center">
 
-── .✦ Bienvenid@ ── ୨ৎ ──
+── .✦ Bienvenido .✦ ───
 
 </div>
 
@@ -43,6 +43,7 @@ Diseñado con una vibra cálida, organizada y suave. ♡
 </div>
 
 <sub><sup><i>
+<div align="center">
 
 𓆩✧𓆪 Aplicar los conocimientos adquiridos sobre desarrollo web  
 𓆩✧𓆪 Practicar GitHub y GitHub Pages  
