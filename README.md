@@ -55,7 +55,6 @@ Diseñado con una vibra cálida, organizada y suave. ♡
 
 <div align="center">
 
-╰┈➤ Estructura del Proyecto
-
+<h3 align="center"><strong><em>── ╰┈➤ Estructura del Proyecto ──</em></strong></h3>
 </div>
 
