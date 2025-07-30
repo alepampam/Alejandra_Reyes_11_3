@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.gif" alt="Banner del proyecto" width="100%" />
+  <img src="descarga.gif" alt="Banner del proyecto" width="100%" />
 </p>
 
 # 🌐 Proyecto Web Básico
