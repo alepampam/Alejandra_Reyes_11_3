@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.gif" alt="Banner del proyecto" width="100%" />
+</p>
+
 # 🌐 Proyecto Web Básico
 
 ¡Bienvenido a mi primer proyecto de desarrollo web! 🚀
@@ -28,4 +32,6 @@ Este es un proyecto web sencillo, creado como parte del curso de desarrollo web.
 ---
 
 ## 📁 Estructura del Proyecto
+
+
 
